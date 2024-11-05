@@ -1,5 +1,5 @@
 # Como acessar?
-As análises são separadas por tipo, dentro de cada pasta você encontra as análises, logo no início de cada arquivo de análise você encontra o case de negócio e solução com um gráfico que sinaliza os principais insights obtidos.
+As análises são separadas por tipo, dentro de cada pasta você encontra as análises, logo no início de cada arquivo de análise você encontra o case de negócio e a solução com um gráfico que sinaliza os principais insights obtidos, veja um exemplo do tipo de análise que você vai encontrar...
 
 # Preview
 ## Case: Lucro por ano
