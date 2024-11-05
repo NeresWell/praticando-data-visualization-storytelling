@@ -21,3 +21,4 @@ Os dados necessários para a análise são os lucros totais por ano e os anos qu
 Como os itens(anos) que serão comparados, são poucos(4 anos), então um gráfico de colunas atende.
 
 ## Resultado
+![Alt text](imagens/download.png)
